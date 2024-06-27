@@ -223,7 +223,7 @@ For detailed wiring and setup, refer to the [ESP32 and MFRC522 Wiring Guide](htt
   
 - Emin Kaya[@Email](muhammedeminkaya9@gmail.com)
   
-- Emin's github[@Github](https://github.com/Eminkaya0)
+- Emin's Github[@Github](https://github.com/Eminkaya0)
 
   
   
