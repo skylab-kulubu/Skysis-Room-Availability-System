@@ -207,7 +207,7 @@ For detailed wiring and setup, refer to the [ESP32 and MFRC522 Wiring Guide](htt
 
 ## Contact
 
-*"TO KNOW MORE ABOUT STUDENT BRANCH: SKYLAB"*
+*"TO KNOW MORE ABOUT OUR STUDENT BRANCH: SKYLAB"*
 
 - Website: [https://yildizskylab.com](https://yildizskylab.com/)
 - GitHub: [https://github.com/skylab-kulubu](https://github.com/skylab-kulubu)
