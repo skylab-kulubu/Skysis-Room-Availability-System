@@ -15,7 +15,8 @@ It is a room availability project developed by the SkySis team.
 
 ## About The Project
 
-This project aims to send data to a web server over Wi-Fi using an ESP32 and an RFID reader.
+This project is a collaboration between SKYSIS and WebLab teams. By scanning student cards inside the room, the project displays real-time information about individuals and activities on [oda.skylab.com](https://oda.skylab.com). This allows authorized personnel in our club room to monitor activities remotely.
+
 
 ## Getting Started
 
