@@ -200,6 +200,11 @@ SKYLAB
 - Instagram: [@SKYLAB](https://www.instagram.com/ytuskylab?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 - Linkedn: [@SKYLAB](https://www.linkedin.com/company/ytuskylab/)
 - Discord: [@SKYLAB](https://discord.com/invite/6jFBjH8y63)
+
+  *"TO KNOW MORE ABOUT STUDENT BRANCH"*
+  
+  **SKYLAB**
+  
 ## Acknowledgements
 
 - [Arduino](https://www.arduino.cc/)
