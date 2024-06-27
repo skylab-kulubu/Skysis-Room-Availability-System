@@ -160,6 +160,15 @@ void loop() {
 
 
 ### Step 5: Circuit Diagram and Required Materials
+![image](https://github.com/skylab-kulubu/Skysis-Room-Availability-System/assets/119530243/e7c67942-8c36-458e-bf42-12e7b9b7c070)
+
+Red Wire: VCC
+Green Wire: RST
+Black Wire: GND
+Purple Wire: MISO
+Yellow Wire: MOSI
+Blue Wire: SCK
+Pink Wire: SS
 
 Below is the list of required components for this project along with links to purchase them:
 
