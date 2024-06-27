@@ -219,7 +219,7 @@ SKYLAB
   
   Contact SkySis Team
   
-- Fatma Ertuğrul[@Github]
+- Fatma Ertuğrul[@Github](https://github.com/fatmaertugrul1)
   
 - Emin kaya[@Email](muhammedeminkaya9@gmail.com)
   
