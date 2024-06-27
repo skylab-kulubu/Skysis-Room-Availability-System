@@ -83,7 +83,7 @@ Here's the code used in this project:
 
 // Wi-Fi settings
 const char* ssid = "sky-lab";
-const char* password = "sky-labharika";
+const char* password = "sky-labpassword";
 
 // RFID RC522 settings
 #define SS_PIN 15
