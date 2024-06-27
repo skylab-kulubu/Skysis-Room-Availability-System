@@ -9,9 +9,6 @@ It is a room availability project developed by the SkySis team.
   - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Roadmap](#roadmap)
-  - [Contributing](#contributing)
-  - [License](#license)
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
 </details>
@@ -161,4 +158,57 @@ void loop() {
 
 
 ### Step 5: Circuit Diagram and Required Materials
+
+Below is the list of required components for this project along with links to purchase them:
+
+- **ESP32 Development Board**: [Buy here](https://www.robotistan.com/esp32-esp-32s-wifi-bluetooth-dual-mode-gelistirme-karti?language=tr&h=453f8cc6&_sgm_campaign=product&_sgm_source=7369&_sgm_action=search&_sgm_term=esp32&_sgm_pinned=false)
+- **MFRC522 RFID Reader**: [Buy here](https://www.robotistan.com/rc522-rfid-nfc-kiti-rc522-rfid-nfc-modulu-kart-ve-anahtarlik-kiti-1356)
+- **Jumper Wires**: [Buy here](https://www.robotistan.com/500-parca-jumper-kablo-seti?language=tr&h=ca082375&_sgm_campaign=product&_sgm_source=9148&_sgm_action=search&_sgm_term=jumper&_sgm_pinned=false)
+- **Breadboard**: [Buy here](https://www.robotistan.com/breadboard-2?language=tr&h=1107c55c&_sgm_campaign=product&_sgm_source=1617&_sgm_action=search&_sgm_term=breadb&_sgm_pinned=false)
+- **USB Cable for ESP32**: [Buy here](https://www.robotistan.com/mikro-usb-kablo-1?language=tr&h=ab5e2833&_sgm_campaign=product&_sgm_source=799&_sgm_action=search&_sgm_term=micro+usb&_sgm_pinned=false)
+- **Gepro UM-0255 5V 2A Adapter**:[Buy here](https://www.robotistan.com/gepro-um-0255-5v-2a-adaptor?language=tr&h=a00968d7&_sgm_campaign=product&_sgm_source=11219&_sgm_action=search&_sgm_term=adapt%C3%B6r&_sgm_pinned=false)
+
+1. Connect the MFRC522 RFID Reader to the ESP32 as follows:
+   - **RST** to **GPIO 22**
+   - **SDA** to **GPIO 15**
+   - **MOSI** to **GPIO 23**
+   - **MISO** to **GPIO 19**
+   - **SCK** to **GPIO 18**
+   - **GND** to **GND**
+   - **3.3V** to **3.3V**
+
+For detailed wiring and setup, refer to the [ESP32 and MFRC522 Wiring Guide](https://randomnerdtutorials.com/esp32-rfid-reader-mfrc522-arduino/).
+
+2. After completing the connections, upload the code to your ESP32 using the steps mentioned earlier.
+
+3. Open the Serial Monitor in Arduino IDE (`Tools -> Serial Monitor`) and set the baud rate to `115200`.
+
+4. Verify that the ESP32 connects to Wi-Fi and reads the RFID card's UID.
+
+5. Each time an RFID card is read, its UID will be sent to the web server, and the response code will be displayed in the Serial Monitor.
+
+
+## Contact
+
+SKYLAB
+
+- Website: [https://yildizskylab.com](https://yildizskylab.com/)
+- Email: [contact@skysis.com](mailto:contact@skysis.com)
+- GitHub: [https://github.com/skylab-kulubu](https://github.com/skylab-kulubu)
+- X: [@SKYLAB](https://x.com/SkyLabKulubu)
+- YouTube: [@SKYLAB](https://www.youtube.com/channel/UCF_qBKpUnM3X_C3L-gLEO4A)
+- Instagram: [@SKYLAB](https://www.instagram.com/ytuskylab?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- Linkedn: [@SKYLAB](https://www.linkedin.com/company/ytuskylab/)
+- Discord: [@SKYLAB](https://discord.com/invite/6jFBjH8y63)
+## Acknowledgements
+
+- [Arduino](https://www.arduino.cc/)
+- [ESP32](https://www.espressif.com/en/products/socs/esp32)
+- [GitHub](https://github.com/)
+- [WiFi Library](https://www.arduino.cc/en/Reference/WiFi)
+- [HTTPClient Library](https://www.arduino.cc/en/Reference/HTTPClient)
+- [SPI Library](https://www.arduino.cc/en/Reference/SPI)
+- [MFRC522 Library](https://github.com/miguelbalboa/rfid)
+- [ArduinoJson Library](https://arduinojson.org/)
+
 
