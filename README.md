@@ -194,7 +194,7 @@ Below is the list of required components for this project along with links to pu
    - **GND** to **GND**
    - **3.3V** to **3.3V**
 
-For detailed wiring and setup, refer to the [ESP32 and MFRC522 Wiring Guide](https://randomnerdtutorials.com/esp32-rfid-reader-mfrc522-arduino/).
+For detailed wiring and setup, refer to the [ESP32 and MFRC522 Wiring Guide](https://www.electronicwings.com/esp32/rfid-rc522-interfacing-with-esp32).
 
 2. After completing the connections, upload the code to your ESP32 using the steps mentioned earlier.
 
@@ -207,7 +207,7 @@ For detailed wiring and setup, refer to the [ESP32 and MFRC522 Wiring Guide](htt
 
 ## Contact
 
-SKYLAB
+*"TO KNOW MORE ABOUT STUDENT BRANCH: SKYLAB"*
 
 - Website: [https://yildizskylab.com](https://yildizskylab.com/)
 - GitHub: [https://github.com/skylab-kulubu](https://github.com/skylab-kulubu)
@@ -219,15 +219,13 @@ SKYLAB
   
   Contact SkySis Team
   
-- Fatma Ertuğrul[@Github](https://github.com/fatmaertugrul1)
+- Fatma's Github[@Github](https://github.com/fatmaertugrul1)
   
-- Emin kaya[@Email](muhammedeminkaya9@gmail.com)
+- Emin Kaya[@Email](muhammedeminkaya9@gmail.com)
   
 - Emin's github[@Github](https://github.com/Eminkaya0)
 
-  *"TO KNOW MORE ABOUT STUDENT BRANCH"*
   
-  **SKYLAB**
   
 ## Acknowledgements
 
