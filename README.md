@@ -216,10 +216,14 @@ SKYLAB
 - Instagram: [@SKYLAB](https://www.instagram.com/ytuskylab?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 - Linkedn: [@SKYLAB](https://www.linkedin.com/company/ytuskylab/)
 - Discord: [@SKYLAB](https://discord.com/invite/6jFBjH8y63)
+  
   Contact SkySis Team
-  Fatma Ertuğrul[@Github]
-  Emin kaya[@Email](muhammedeminkaya9@gmail.com)
-  Emin's github[@Github](https://github.com/Eminkaya0)
+  
+- Fatma Ertuğrul[@Github]
+  
+- Emin kaya[@Email](muhammedeminkaya9@gmail.com)
+  
+- Emin's github[@Github](https://github.com/Eminkaya0)
 
   *"TO KNOW MORE ABOUT STUDENT BRANCH"*
   
